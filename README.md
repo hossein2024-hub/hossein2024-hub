@@ -17,7 +17,7 @@ I'm a Machine Learning Engineer with a strong foundation in deep learning, big d
 
 ## 📌 Featured Projects
 
-### 🩺 [Dermatology Disease Detection with Deep Learning](https://github.com/UBC-MDS/dermatology)
+### 🩺 [Dermatology Disease Classification](https://github.com/hossein2024-hub/Dermatology)
 As part of the  University of Toronto DSI Certificate capstone team project, I co-developed this ML pipeline to classify skin conditions using different ML algorithms.  
 ✅ My contributions (in collaboration with my teammates):
 - Designed and trained tree models (XG Boost, Extra Trees, Random Forest), KNN, Naive Bayes, and SVM.
