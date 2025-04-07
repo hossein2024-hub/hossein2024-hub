@@ -1,3 +1,6 @@
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https://api.countapi.xyz/hit/hossein2024-hub/visits)
+
+
 # 👋 Hi there, I'm Hossein Khonsari!
 
 I'm a Machine Learning Engineer with a strong foundation in deep learning, big data, and scalable AI systems. With a passion for solving real-world problems, I specialize in building and deploying end-to-end machine learning solutions.
