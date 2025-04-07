@@ -18,9 +18,9 @@ I'm a Machine Learning Engineer with a strong foundation in deep learning, big d
 ## 📌 Featured Projects
 
 ### 🩺 [Dermatology Disease Detection with Deep Learning](https://github.com/UBC-MDS/dermatology)
-As part of the UBC DSI Certificate capstone team project, I co-developed this computer vision pipeline to classify skin conditions using convolutional neural networks (CNNs).  
+As part of the  University of Toronto DSI Certificate capstone team project, I co-developed this ML pipeline to classify skin conditions using different ML algorithms.  
 ✅ My contributions:
-- Designed and trained CNN models
+- Designed and trained tree models (XG Boost, Extra Trees, Random Forest), KNN, Naive Bayes, and SVM.
 - Conducted exploratory data analysis and augmentation
 - Built reusable training pipelines and evaluation scripts
 - Delivered interpretable insights and presentation materials
