@@ -1,4 +1,5 @@
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https://api.countapi.xyz/hit/hossein2024-hub/visits)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hossein2024-hub)
+
 
 
 # 👋 Hi there, I'm Hossein Khonsari!
